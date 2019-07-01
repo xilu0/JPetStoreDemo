@@ -7,7 +7,7 @@ Documentation     A resource file with reusable keywords and variables.
 Library           Selenium2Library
 
 *** Variables ***
-${SERVER}         182.140.210.214:8282
+${SERVER}         172.20.8.4:8112
 ${BROWSER}        phantomjs
 ${REMOTE_URL}     http://USERNAME:ACCESS_KEY@182.140.210.214:4444/wd/hub
 ${DELAY}          0
