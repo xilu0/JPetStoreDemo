@@ -17,7 +17,7 @@ configurations.all {
 repositories {
     mavenLocal()   
     maven {
-            url "http://admin:${MavenRepoPaasword}@${MavenRepoServerIP}:${MavenRepoServerPort}/artifactory/maven-virtual"
+            url "http://admin:City8WiseCloud2020@${MavenRepoServerIP}:${MavenRepoServerPort}/artifactory/maven-virtual"
           }
 }
 dependencies {
